@@ -1,0 +1,1 @@
+This notebook shows the accuracy score for various predictive model of survivors in the Titanic ship. The best performing model is the RandomForest. Hyperparameter tuning was used to get the best out of this model
